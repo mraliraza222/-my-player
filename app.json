@@ -15,19 +15,14 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.mraliraza.myplayer",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.mraliraza.myplayer"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "73f67af2-5b94-443e-a89e-436f5223049b"
-      }
     }
   }
 }
